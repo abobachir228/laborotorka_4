@@ -8,3 +8,10 @@ main
 main
 main
 "
+=======
+zad2
+zad2
+zad2
+zad2
+zad2
+"
